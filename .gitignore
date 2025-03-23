@@ -1,0 +1,16 @@
+.git/
+.ropeproject/
+obsidian/
+obsidian-crypt/
+
+password.txt
+secret.txt
+story.txt
+
+password_gen.py
+encrypt-git.py
+encrypt-git-old.py
+decrypt-git.py
+submit-git.py
+
+automate-commands.py
